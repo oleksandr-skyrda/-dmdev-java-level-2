@@ -1,4 +1,4 @@
-package p01.lesson01;
+package ch01.less01;
 
 public class TextExample {
     public static void main(String[] args) {
